@@ -1,2 +1,1 @@
-# OIgU50
-C23 SA1
+# Tablet-SPCK-PRO-C23-Student-Activity
