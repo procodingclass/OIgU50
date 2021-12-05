@@ -1,7 +1,6 @@
 class Ball {
   constructor(x, y, r) {
     var options = { 
-      density: 1, 
       frictionAir: 0.005,
       restitution : 1.0
     };
@@ -16,9 +15,7 @@ class Ball {
     
     ellipse(this.body.position.x, this.body.position.y, this.radius, this.radius);
     
-  }
-
-  
+  } 
 }
 
 
