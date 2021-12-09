@@ -15,10 +15,9 @@ function setup() {
 
 
   ball = new Ball(50, 100, 30);
-8
+
   ground = new Box(0, 380,850, 20);
 
-  Body.setStatic(ground.body, true);
 
   box1 = new Box(100, 100, 70, 70);
   box2 = new Box(200, 100, 70, 70);
